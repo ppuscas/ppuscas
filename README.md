@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ppuscas
+- 💻 Jr Software Development Engineer at Amazon Detroit in Business Data Technologies
+- 🌱 Software Engineering Student at University of Michigan - Dearborn
+- 📫 ppuscas@umich.edu
